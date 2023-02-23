@@ -547,7 +547,7 @@ div.certicate ul{
 
 
 div.skills p{
-    font-size: 1.563em;
+    font-size: 1.250em;
 }
 
 div.skills ul li img{
@@ -1199,7 +1199,6 @@ header.main{
   background: url(../img/pc/main.png);
 }
 
-/* 복사 시작 */
 
 nav ul{
   display: flex;
@@ -1701,7 +1700,7 @@ section div.introduce p{
   left:30px;
   top: 40px;
   line-height: 20px;
-  font-size:1.563em;
+  font-size:1.125em;
 }
 
 section div.introduce div.edu p{
@@ -1731,7 +1730,7 @@ div.certicate ul{
   text-align: left;
   margin-top: 50px;
   margin-left: 20px;
-  font-size:1.563em;
+  font-size:1.125em;
 }
 
 
