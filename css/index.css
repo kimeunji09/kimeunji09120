@@ -106,7 +106,7 @@ section.contents2 p{
 section.contents2 div.webdetail figure{
     margin-top: 30px;
     position: relative;
-    left: 20px;
+    left: -5px;
 }
 
 
@@ -470,7 +470,7 @@ section.contents3 figure img{
     width: 50%;
     margin-top: 30px;
     position: relative;
-    left: 100px;
+    left: 85px;
 }
 
 section.contents3 figure figcaption{
@@ -576,21 +576,18 @@ footer p{
     font-size: 0.750em;
 }
 
-footer img{
-    width: 8%;
+footer ul li img{
+    width: 10%;
 }
 
 footer address{
     text-align: center;
     margin-top: 10px;
+    font-style: normal;
 }
 
-footer ul li img{
-    float: left;
+footer ul li{
     position: relative;
-    left: 150px;
-    top: 5px;
-    margin-left: 10px;
 }
 
 
@@ -1778,6 +1775,5 @@ footer ul li img{
   top: 5px;
   margin-left: 30px;
 }
-
 
 }
