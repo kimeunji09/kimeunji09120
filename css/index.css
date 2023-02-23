@@ -18,9 +18,9 @@ header.main{
 
 nav ul{
     display: flex;
-    padding: 20px;
-    text-indent: 20px;
+    text-indent: 10px;
     font-weight: bold;
+    margin-top: 10px;
 }
 
 nav ul li:hover{text-decoration: underline;
@@ -101,13 +101,12 @@ section.contents2 p{
     color: #333;
     font-size: 0.938em;
     text-align: center;
-    margin-top: 30px;
 }
 
 section.contents2 div.webdetail figure{
     margin-top: 30px;
     position: relative;
-    left: 50px;
+    left: 20px;
 }
 
 
@@ -471,7 +470,7 @@ section.contents3 figure img{
     width: 50%;
     margin-top: 30px;
     position: relative;
-    left: 110px;
+    left: 100px;
 }
 
 section.contents3 figure figcaption{
@@ -515,11 +514,12 @@ section div.introduce p{
     left:30px;
     top: 40px;
     line-height: 20px;
+    font-size: 0.750em;
 }
 
 section div.introduce div.edu p{
     text-align: left;
-    font-size:1.563em;
+    font-size:0.750em;
     margin-top: 20px;
 }
 
@@ -535,7 +535,7 @@ section div.me img{
 
 div.certicate p{
     text-align: left;
-    font-size:1.563em;
+    font-size:0.750em;
     margin-top: 20px;
 }
 
@@ -573,6 +573,7 @@ footer{
 footer p{
     text-align: center;
     margin-top: 10px;
+    font-size: 0.750em;
 }
 
 footer img{
@@ -603,12 +604,11 @@ footer ul li img{
 /* tab - 헤더영역 */
 header.main{
   width: 100%;
-  height: 500px;
+  height: 490px;
   background: url(../img/tab/tab_main.png);
 
 }
 
-/* 모바일 복사 시작--------------------------- */
 
 nav ul{
   display: flex;
@@ -1147,7 +1147,7 @@ div.skills p{
 
 div.skills ul li img{
   float: left;
-  width: 100%;
+  width: 10%;
 }
 
 div.skills ul li img{
@@ -1183,6 +1183,8 @@ footer ul li img{
   left: 270px;
   top: 5px;
   margin-left: 10px;
+  width: 6%;
+  height:6%;
 }
 
 }
@@ -1699,6 +1701,7 @@ section div.introduce p{
   left:30px;
   top: 40px;
   line-height: 20px;
+  font-size:1.563em;
 }
 
 section div.introduce div.edu p{
@@ -1728,11 +1731,12 @@ div.certicate ul{
   text-align: left;
   margin-top: 50px;
   margin-left: 20px;
+  font-size:1.563em;
 }
 
 
 div.skills p{
-  font-size: 1.563em;
+  font-size:1.563em;
 }
 
 div.skills ul li img{
@@ -1758,6 +1762,7 @@ footer{
 footer p{
   text-align: center;
   margin-top: 10px;
+  font-size: 0.938em;
 }
 
 
